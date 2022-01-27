@@ -1,24 +1,7 @@
-# mark-tool
+# Rapoty
 
-## Project setup
-```
-npm install
-```
+A Free Markdown Editor on Browser
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Dependence
+1. Vue 3.0
+2. marked.js
